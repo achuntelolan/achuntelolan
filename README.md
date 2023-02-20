@@ -234,24 +234,27 @@
 <div style="margin-top:10px" align="center">
   <div>
     <a  href="https://www.youtube.com/channel/UCO0zkfUHCaNfeSusjYI2PoA" target="_blank">
-      <img src="https://img.shields.io/badge/mangoes media-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="example"/>
+      <img src="https://img.shields.io/badge/mangoes media-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="youtube"/>
     </a>
      <a  href="https://www.instagram.com/achuntelolan/?fbclid=IwAR0WZUX1141V7blzXGlfMSiRHdZJzfdtm2AbIXyYrzSqidF2pdLMyhQDtno" target="_blank">
-      <img src="https://img.shields.io/badge/achuntelolan-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="example"/>
+      <img src="https://img.shields.io/badge/achuntelolan-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/>
     </a>
     <a href="https://api.whatsapp.com/send?phone=919188462190&text=Hi%20Hlo%20i%20seen%20your%20profile%20on%20github%20and%20i%20messaging%20you" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="example"/>
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/>
     </a>
   </div>
   <div>
     <a  href="https://mediamangoes.blogspot.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="example"/>
+      <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="blog"/>
     </a>
     <a href="https://twitter.com/achuntelolan" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
     </a>
     <a href="https://www.facebook.com/achunte0lolan" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="example"/>
+      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="facebook"/>
+    </a>
+        <a href="https://www.linkedin.com/in/anoop-aj-8bb9591b0/" target="_blank">
+      <img src="https://img.shields.io/badge/Linkedin-25D366?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
     </a>
   </div>
 </div>
