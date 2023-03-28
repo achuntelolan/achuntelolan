@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Backend Design**
 
-- 👨‍💻 All of my projects are available [@achuntelolan](github.com/achuntelolan)
+- 👨‍💻 All of my projects are available [@achuntelolan](https://github.com/achuntelolan)
 
 - 💬 Ask me about **System Designs and Philosophy 😆**
 
