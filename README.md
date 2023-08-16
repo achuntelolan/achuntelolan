@@ -10,7 +10,7 @@
 
 - 👯 I’m just a photographer 
 
-- 🤝 I’m looking for help with **Backend Design**
+- 🤝 I’m looking for help with **Ai Design**
 
 - 👨‍💻 All of my projects are available [@achuntelolan](https://github.com/achuntelolan)
 
@@ -26,6 +26,28 @@
 
 <p align="center">
   <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
+</p>
+<h3 align="center">Ai Tools</h3>
+<p align="center"> 
+  <a href="https://www.tensorflow.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"
+      alt="TensorFlow" /> 
+  </a> 
+  <a href="https://keras.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" /> 
+  </a> 
+  <a href="https://pandas.pydata.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> 
+  </a>
+  <a href="https://pytorch.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch" /> 
+  </a>
+  <a href="https://numpy.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" /> 
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /> 
+  </a>
 </p>
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -79,10 +101,6 @@
   <a href="https://www.sketch.com/" target="_blank">
     <img src="https://img.shields.io/badge/sketch-663399.svg?style=for-the-badge&logo=sketch&logoColor=white" alt="sketch" />
   </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
-      alt="react"/> 
-  </a>
   <a href="https://figma.com" target="_blank"> 
     <img src="https://img.shields.io/badge/figma-764ABC.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/> 
   </a> 
@@ -97,16 +115,9 @@
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
-      alt="nodejs"/> 
-  </a>
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://img.shields.io/badge/django-000000.svg?style=for-the-badge&logo=django&logoColor=white"
       alt="django" />
-  <a href="https://hibernate.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate " /> 
-  </a>
     <a href="https://spring.io/" target="_blank"> 
       <img src="https://img.shields.io/badge/spring%20IOC-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" /> 
   </a>
