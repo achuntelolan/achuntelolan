@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="width:auto; height:auto" src="Make your README.png"/>
+  <img  src="Make your README.png"/>
 </p>
 
 <h1 align="center">Hi, I'm Anoop Joseph John<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
