@@ -1,4 +1,4 @@
-<div style="background-color: #fff;">
+<div style="background-color:white;">
 <p align="center">
   <img  src="Make your README.png"/>
 </p>
