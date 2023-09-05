@@ -1,6 +1,4 @@
-<div style="background-color: #ff5733; padding: 10px;">
-  <p>This is a section with a custom background color.</p>
-</div>
+<div style="background-color: #fffff;">
 <p align="center">
   <img  src="Make your README.png"/>
 </p>
@@ -302,4 +300,4 @@
 Credit: [ANOOP JOSEPH JOHN](https://github.com/achuntelolan)
 
 Last Edited on: 09/09/2021
-
+</div>
