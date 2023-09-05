@@ -1,3 +1,6 @@
+<div style="background-color: #ff5733; padding: 10px;">
+  <p>This is a section with a custom background color.</p>
+</div>
 <p align="center">
   <img  src="Make your README.png"/>
 </p>
