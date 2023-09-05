@@ -1,4 +1,3 @@
-<div style="background-color:white;">
 <p align="center">
   <img  src="Make your README.png"/>
 </p>
@@ -300,4 +299,4 @@
 Credit: [ANOOP JOSEPH JOHN](https://github.com/achuntelolan)
 
 Last Edited on: 09/09/2021
-</div>
+
